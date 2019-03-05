@@ -1,4 +1,4 @@
 # escience
 ---
-permalink: /index.html
+permalink: /index.htm
 ---
